@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Mooli&family=Young+Serif&display=swap');
+
+.description-box{
+    gap: 10px;
+    padding: 0 12px;
+    font-family: 'young serif';
+}
+.description p{
+    display: flex;
+    text-indent: 2px;
+    font: bold;
+    font-size: 15px;
+    font-family: 'young serif';
+}
+.descripimg{
+    width: 27px;
+    height: 27px;
+}

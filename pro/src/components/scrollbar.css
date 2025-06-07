@@ -1,0 +1,10 @@
+.table-container::-webkit-scrollbar{
+    width: 4px;
+}
+.table-container::-webkit-scrollbar-thumb{
+    background-color: skyblue; 
+    border-radius: 6px;
+}
+.table-container::-webkit-scrollbar-track {
+    background-color: none;
+}

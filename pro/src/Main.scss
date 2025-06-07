@@ -1,0 +1,41 @@
+.main-1{
+    margin: auto;
+    padding: auto;
+    max-width: 1440px;
+    height: 180vh;
+    background-color: #eee;
+    
+    .Table{
+        position: relative;
+        right: 2.8px;
+    }
+    p{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+        top: 56vh;
+    }
+}
+@media screen and (max-width:600px){
+    .main-1{
+        margin: auto;
+        padding: auto;
+        max-width: 600px;
+        height: 130vh;
+        background-color: #eee;
+        
+        Table{
+            position: relative;
+            left: 0.3px;
+        }
+        p{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            top: 56vh;
+        }
+    }
+    
+}
